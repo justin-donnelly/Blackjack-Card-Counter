@@ -3,4 +3,5 @@ Using OpenCV and an image classification model that I trained, I used my webcam 
 
 model.ipynb includes the code needed to download a card dataset from kaggle, as well as two models that I trained using the Fastai library. Image_detecion.ipynb is the file that shows the use of OpenCV. You can view a live video demonstration below:
 ---
-[![Video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=G_RpDczTJNA/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=G_RpDczTJNA)
+[![Video](https://img.youtube.com/vi/G_RpDczTJNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=G_RpDczTJNA "Click to Play!")
+
